@@ -5,7 +5,7 @@
 
 <p  align="center">
   🔭 I’m currently Trying to discover the world of <span >Data science<span> 🔭<br>
- &nbsp;  Versatile developer 💻 with a passion for building innovative solutions 🤓 across web, desktop, and various technologies. Proficient in multiple programming languages and frameworks, including web development (HTML, CSS, Tailwind, JavaScript, ...) and desktop development (Java, C#, VB.NET ...). <br>
+ &nbsp;  Versatile developer 💻 with a passion for building innovative solutions 🤓 across web, desktop, and various technologies. Proficient in multiple programming languages and frameworks, including web development (HTML, CSS, Tailwind, JavaScript, Python ...) and desktop development (Java, C#, VB.NET ...). <br>
   &nbsp; Committed to continuous learning and exploring new technologies to stay adaptable in a rapidly evolving tech landscape.<br>
   &nbsp; Enthusiastic about collaborating on projects that challenge and expand my skills.
 <br>  🎯 Let's create something amazing together ! 🎯
